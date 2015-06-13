@@ -1,5 +1,7 @@
 # Awesome Python
 
+[![Join the chat at https://gitter.im/hudsonbrendon/awesome-python](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hudsonbrendon/awesome-python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A curated list of awesome Python frameworks, libraries and software. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 
 - [Awesome Python](#awesome-python)
